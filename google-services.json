@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "438200273613",
+    "firebase_url": "https://kotlingeofiremultilocation.firebaseio.com",
+    "project_id": "kotlingeofiremultilocation",
+    "storage_bucket": "kotlingeofiremultilocation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438200273613:android:b83660c8a5c5d6f4",
+        "android_client_info": {
+          "package_name": "com.dagger.kotlingeofiremultilocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438200273613-o8nd1u2ror9l84dtu5equh8ik13vonv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dagger.kotlingeofiremultilocation",
+            "certificate_hash": "cce25b7b4096fcfeb202b28c372153070aebf79c"
+          }
+        },
+        {
+          "client_id": "438200273613-kha5idp381sggtivcctodnv775601n8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVe_NR1J9SZAlO1T3I5JvxqvADHF_KJPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438200273613-kha5idp381sggtivcctodnv775601n8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
